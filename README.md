@@ -23,7 +23,7 @@ This will run Goof locally, using a local mongo on the default port and listenin
 ## Running with docker-compose
 ```bash
 docker-compose up --build
-docker-compose down
+docker-compose downkkjkk
 ```
 
 ### Heroku usage
